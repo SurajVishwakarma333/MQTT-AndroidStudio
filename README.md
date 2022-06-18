@@ -258,4 +258,18 @@ Step 6: You can test your mobile app
             
 - RUN the app
 - In browser, open the [MQTT websocket client](http://www.hivemq.com/demos/websocket-client/)
-- Click button connect and Add New Topic Subcription.
+
+![1](https://user-images.githubusercontent.com/101108540/174437564-e3b8b6c2-55aa-4722-82c8-d53e479d822f.jpg)
+
+
+Click button connect and Add New Topic Subcription.
+
+![2](https://user-images.githubusercontent.com/101108540/174437594-ecae7454-e1b2-44f8-ac1e-2e2c6fee991e.jpg)
+
+
+
+
+
+
+
+
