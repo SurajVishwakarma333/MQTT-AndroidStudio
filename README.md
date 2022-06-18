@@ -257,7 +257,7 @@ Add the following within the <application> tag:
 **Step 6: You can test your mobile app**            
             
 - `RUN the app`
-- `In browser, open the [MQTT websocket client](http://www.hivemq.com/demos/websocket-client/)`
+- `In browser, open the` [MQTT websocket client](http://www.hivemq.com/demos/websocket-client/)
 
 ![1](https://user-images.githubusercontent.com/101108540/174437564-e3b8b6c2-55aa-4722-82c8-d53e479d822f.jpg)
 
