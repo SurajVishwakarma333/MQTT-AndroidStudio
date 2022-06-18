@@ -256,13 +256,13 @@ Add the following within the <application> tag:
             
 **Step 6: You can test your mobile app**            
             
-- RUN the app
-- In browser, open the [MQTT websocket client](http://www.hivemq.com/demos/websocket-client/)
+- `RUN the app`
+- `In browser, open the [MQTT websocket client](http://www.hivemq.com/demos/websocket-client/)`
 
 ![1](https://user-images.githubusercontent.com/101108540/174437564-e3b8b6c2-55aa-4722-82c8-d53e479d822f.jpg)
 
 
-- Click button connect and Add New Topic Subcription.
+- `Click button connect and Add New Topic Subcription.`
 
 ![2](https://user-images.githubusercontent.com/101108540/174437594-ecae7454-e1b2-44f8-ac1e-2e2c6fee991e.jpg)
 
@@ -273,8 +273,8 @@ Add the following within the <application> tag:
 
             QoS = 0
 
-- Click subscribe.
-- When click button Publish, you will see the “the payload” in the Messages bar. The message is already embedded in the coding.
+- `Click subscribe.`
+- `When click button Publish, you will see the “the payload” in the Messages bar. The message is already embedded in the coding.`
 
 
 ![3](https://user-images.githubusercontent.com/101108540/174437770-a0dc1a7c-1662-4361-aeb7-86b9b524634a.jpg)
@@ -282,7 +282,7 @@ Add the following within the <application> tag:
 
 
 
-- When click Publish from MQTT websocket client with correct topic (“event”), you will see the “YEAHH!!!” on you mobile app 
+- `When click Publish from MQTT websocket client with correct topic (“event”), you will see the “YEAHH!!!” on you mobile app` 
 
 
  #   `OUTPUT`
