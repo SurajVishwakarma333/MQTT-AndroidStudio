@@ -285,6 +285,9 @@ Add the following within the <application> tag:
 - When click Publish from MQTT websocket client with correct topic (“event”), you will see the “YEAHH!!!” on you mobile app 
 
 
+- OUTPUT
+
+![output](https://user-images.githubusercontent.com/101108540/174438337-cbcab33f-8d8b-4d6e-91f5-ae3b6d74c4bc.jpg)
 
 
 ![Screenshot_20220618_180122-01](https://user-images.githubusercontent.com/101108540/174437981-21bcff1f-bc6a-42cb-9916-fe32670bf4c6.jpeg)
