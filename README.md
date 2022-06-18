@@ -34,7 +34,8 @@ The Paho Android Service needs the following permissions to work:
             <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
             <uses-permission android:name="android.permission.READ_PHONE_STATE" />
             
-To be able to create a binding to the Paho Android Service, the service needs to be declared in the AndroidManifest.xml. Add the following within the <application> tag:            
+To be able to create a binding to the Paho Android Service, the service needs to be declared in the AndroidManifest.xml.
+Add the following within the <application> tag:            
             
             <application
                   ........
