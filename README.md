@@ -273,7 +273,9 @@ Add the following within the <application> tag:
 
             QoS = 0
 
-
+- Click subscribe.
+- When click button Publish, you will see the “the payload” in the Messages bar. The message is already embedded in the coding.
+- When click Publish from MQTT websocket client with correct topic (“event”), you will see the “YEAHH!!!” on you mobile app
 
 
 
