@@ -275,8 +275,11 @@ Add the following within the <application> tag:
 
 - Click subscribe.
 - When click button Publish, you will see the “the payload” in the Messages bar. The message is already embedded in the coding.
-- 
+
+
 ![3](https://user-images.githubusercontent.com/101108540/174437770-a0dc1a7c-1662-4361-aeb7-86b9b524634a.jpg)
+
+
 
 
 - When click Publish from MQTT websocket client with correct topic (“event”), you will see the “YEAHH!!!” on you mobile app 
