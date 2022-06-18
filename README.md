@@ -287,9 +287,7 @@ Add the following within the <application> tag:
 
 - OUTPUT
 
-![output](https://user-images.githubusercontent.com/101108540/174438337-cbcab33f-8d8b-4d6e-91f5-ae3b6d74c4bc.jpg)
 
-
-![Screenshot_20220618_180122-01](https://user-images.githubusercontent.com/101108540/174437981-21bcff1f-bc6a-42cb-9916-fe32670bf4c6.jpeg)
+![output](https://user-images.githubusercontent.com/101108540/174438580-1a5a598d-552c-4757-9528-7d240d42829f.jpg)
 
 
