@@ -259,4 +259,4 @@ Step 6: You can test your mobile app
 - RUN the app
 - In browser, open the MQTT websocket client as link below:            
 
-[(http://www.hivemq.com/demos/websocket-client/)](http://www.hivemq.com/demos/websocket-client/)
+[http://www.hivemq.com/demos/websocket-client/](http://www.hivemq.com/demos/websocket-client/)
