@@ -278,7 +278,8 @@ Add the following within the <application> tag:
 
             QoS = 0
 
-- `In publish give topic which is "topictesting" and provide the messessage which you want to display in android app here my message is "hello siwi from suraj".`
+- `When click Publish from MQTT websocket client with correct topic (“event”), you will see the “YEAHH!!!” on you mobile app` 
+
 - `Now click on publish to display the message in android app.`
 
 ![1](https://user-images.githubusercontent.com/101108540/174591006-6a7bd6ce-f804-4285-83e7-d457973e6b6a.jpg)
@@ -296,6 +297,5 @@ Add the following within the <application> tag:
 
 
 
-- `When click Publish from MQTT websocket client with correct topic (“event”), you will see the “YEAHH!!!” on you mobile app` 
 
 
