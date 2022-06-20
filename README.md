@@ -261,12 +261,14 @@ Add the following within the <application> tag:
 
 ![1](https://user-images.githubusercontent.com/101108540/174437564-e3b8b6c2-55aa-4722-82c8-d53e479d822f.jpg)
 
-
 - `Click button connect.`
 
 ![to connect](https://user-images.githubusercontent.com/101108540/174592633-cf5e3c2d-f396-4218-bdf8-ddcd7e5a9c86.jpg)
 
 - It will show connected.`
+
+![connected](https://user-images.githubusercontent.com/101108540/174593956-c63b1a5f-ffc0-43f5-87c7-c01f9c5d5d1a.jpg)
+
 
 ### wanted to send data from mqtt to android App?.
 
