@@ -264,6 +264,10 @@ Add the following within the <application> tag:
 
 - `Click button connect.`
 
+![to connect](https://user-images.githubusercontent.com/101108540/174592633-cf5e3c2d-f396-4218-bdf8-ddcd7e5a9c86.jpg)
+
+- It will show connected.`
+
 ### wanted to send data from mqtt to android App?.
 
 - `In publish give topic which is "testingtopic" and provide the messessage which you want to display in android app here my message is "hello siwi from suraj".`
