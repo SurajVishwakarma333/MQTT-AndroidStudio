@@ -270,13 +270,7 @@ Add the following within the <application> tag:
 ![connected](https://user-images.githubusercontent.com/101108540/174593956-c63b1a5f-ffc0-43f5-87c7-c01f9c5d5d1a.jpg)
 
 
-### wanted to send data from mqtt to android App?.
-
-- `In publish give topic which is "testingtopic" and provide the messessage which you want to display in android app here my message is "hello siwi from suraj".`
-
-![1](https://user-images.githubusercontent.com/101108540/174591006-6a7bd6ce-f804-4285-83e7-d457973e6b6a.jpg)
-
-
+### Wanted to send data from mqtt to android App ?.
 
 - Example of Topic in my program:
 
@@ -284,8 +278,15 @@ Add the following within the <application> tag:
 
             QoS = 0
 
-- `Click subscribe.`
-- `When click button Publish, you will see the “publishing message from suraj” in the Messages bar. The message is already embedded in the coding.`
+- `In publish give topic which is "testingtopic" and provide the messessage which you want to display in android app here my message is "hello siwi from suraj".`
+
+![1](https://user-images.githubusercontent.com/101108540/174591006-6a7bd6ce-f804-4285-83e7-d457973e6b6a.jpg)
+
+### Wanted to recieve data from mqtt to android App ?.
+
+- `Add Subscriptions by clicking on "Add New Topic Subscription" `
+
+![subs](https://user-images.githubusercontent.com/101108540/174595374-6721027e-f18a-43b5-bc04-55425e2e70ef.jpg)
 
 
 
