@@ -184,8 +184,8 @@ Add the following within the <application> tag:
 
                 public void published(View v){
 
-                    String topic = "event";
-                    String message = "the payload";
+                    String topic = "topictesting";
+                    String message = "publishing message from suraj";
                     try {
                         client.publish(topic, message.getBytes(),0,false);
                         Toast.makeText(this,"Published Message",Toast.LENGTH_SHORT).show();
@@ -198,7 +198,7 @@ Add the following within the <application> tag:
 
                     try{
 
-                        client.subscribe("event",0);
+                        client.subscribe("topictesting",0);
 
 
                     }catch (MqttException e){
