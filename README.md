@@ -262,8 +262,13 @@ Add the following within the <application> tag:
 ![1](https://user-images.githubusercontent.com/101108540/174437564-e3b8b6c2-55aa-4722-82c8-d53e479d822f.jpg)
 
 
-- `Click button connect and Add New Topic Subcription.`
+- `Click button connect.`
 
+### wanted to send data from mqtt to android App?.
+
+- `In publish give topic which is "testingtopic" and provide the messessage which you want to display in android app here my message is "hello siwi from suraj".`
+
+![1](https://user-images.githubusercontent.com/101108540/174591006-6a7bd6ce-f804-4285-83e7-d457973e6b6a.jpg)
 
 
 
