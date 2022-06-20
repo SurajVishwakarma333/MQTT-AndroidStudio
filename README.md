@@ -270,7 +270,7 @@ Add the following within the <application> tag:
 ![connected](https://user-images.githubusercontent.com/101108540/174593956-c63b1a5f-ffc0-43f5-87c7-c01f9c5d5d1a.jpg)
 
 
-# Q.1 Wanted to send data from mqtt to android App ?.
+# Q. Wanted to send data from MQTT to android App ?.
 
 - Example of Topic in my program:
 
@@ -283,14 +283,14 @@ Add the following within the <application> tag:
 
 ![1](https://user-images.githubusercontent.com/101108540/174591006-6a7bd6ce-f804-4285-83e7-d457973e6b6a.jpg)
 
-# Q.2 Wanted to receive data from mqtt to android App ?.
+# Q. Wanted to receive data from MQTT to android App ?.
 
 - `Add Subscriptions by clicking on "Add New Topic Subscription"`
 
 ![subs](https://user-images.githubusercontent.com/101108540/174595374-6721027e-f18a-43b5-bc04-55425e2e70ef.jpg)
 
 
-- `Provide topic name i.e "topictesing" and click on Subscribe.`
+- `Provide topic name i.e "topictesing" also set QoS=0 and click on Subscribe.`
 
 ![sub](https://user-images.githubusercontent.com/101108540/174598301-19971578-5bcf-43ba-b48d-ae108ffc71b7.jpg)
 
