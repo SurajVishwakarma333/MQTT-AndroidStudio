@@ -285,10 +285,14 @@ Add the following within the <application> tag:
 
 # Q.2 Wanted to receive data from mqtt to android App ?.
 
-- `Add Subscriptions by clicking on "Add New Topic Subscription" `
+- `Add Subscriptions by clicking on "Add New Topic Subscription"`
 
 ![subs](https://user-images.githubusercontent.com/101108540/174595374-6721027e-f18a-43b5-bc04-55425e2e70ef.jpg)
 
+
+- `Provide topic name i.e "topictesing" and click on Subscribe.`
+
+![sub](https://user-images.githubusercontent.com/101108540/174598301-19971578-5bcf-43ba-b48d-ae108ffc71b7.jpg)
 
 
 
