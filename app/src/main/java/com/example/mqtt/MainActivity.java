@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
         subText = (TextView)findViewById(R.id.subText);
 
         String clientId = MqttClient.generateClientId();
-        client = new MqttAndroidClient(this.getApplicationContext(), "tcp://broker.mqttdashboard.com:8000",clientId);
+        client = new MqttAndroidClient(this.getApplicationContext(), "tcp://broker.mqttdashboard.com:1883",clientId);
         //client = new MqttAndroidClient(this.getApplicationContext(), "tcp://192.168.43.41:1883",clientId);
 
         try {
@@ -72,8 +72,8 @@ public class MainActivity extends AppCompatActivity {
 
     public void published(View v){
 
-        String topic = "event";
-        String message = "the payload";
+        String topic = "topictesting";
+        String message = "publishing message from suraj";
         try {
             client.publish(topic, message.getBytes(),0,false);
             Toast.makeText(this,"Published Message",Toast.LENGTH_SHORT).show();
@@ -86,7 +86,7 @@ public class MainActivity extends AppCompatActivity {
 
         try{
 
-            client.subscribe("event",0);
+            client.subscribe("topictesting",0);
 
 
         }catch (MqttException e){
@@ -125,8 +125,6 @@ public class MainActivity extends AppCompatActivity {
                 @Override
                 public void onSuccess(IMqttToken asyncActionToken) {
                     Toast.makeText(MainActivity.this,"Disconnected!!",Toast.LENGTH_LONG).show();
-
-
                 }
 
                 @Override

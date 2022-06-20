@@ -31,7 +31,6 @@ dependencies {
     implementation('org.eclipse.paho:org.eclipse.paho.android.service:1.0.2') {
         exclude module: 'support-v4'
     }
-
     implementation 'androidx.appcompat:appcompat:1.4.2'
     implementation 'com.google.android.material:material:1.6.1'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
