@@ -265,7 +265,7 @@ Add the following within the <application> tag:
 
 ![to connect](https://user-images.githubusercontent.com/101108540/174592633-cf5e3c2d-f396-4218-bdf8-ddcd7e5a9c86.jpg)
 
-- It will show connected.`
+- `It will show connected.`
 
 ![connected](https://user-images.githubusercontent.com/101108540/174593956-c63b1a5f-ffc0-43f5-87c7-c01f9c5d5d1a.jpg)
 
