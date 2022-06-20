@@ -284,6 +284,9 @@ Add the following within the <application> tag:
 
 ![1](https://user-images.githubusercontent.com/101108540/174591006-6a7bd6ce-f804-4285-83e7-d457973e6b6a.jpg)
 
+![17](https://user-images.githubusercontent.com/101108540/174600612-66f0e62c-5080-4819-b213-312fd18cbd4a.jpg)
+
+
 # Q. Wanted to receive data from MQTT to android App ?.
 
 - `Add Subscriptions by clicking on "Add New Topic Subscription"`
