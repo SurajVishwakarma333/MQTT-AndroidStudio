@@ -296,9 +296,9 @@ Add the following within the <application> tag:
 
 ![sub](https://user-images.githubusercontent.com/101108540/174598301-19971578-5bcf-43ba-b48d-ae108ffc71b7.jpg)
 
-- `Provide topic name i.e "topictesting" and also set QoS=0. click on Subscribe.`
 
 - `When click button Publish, you will see the “publishing message from suraj” in the Messages bar. The message is already embedded in the coding.`
 
+![3](https://user-images.githubusercontent.com/101108540/174601860-29ff869c-94eb-4013-b8f7-e0626809dc15.jpg)
 
 
